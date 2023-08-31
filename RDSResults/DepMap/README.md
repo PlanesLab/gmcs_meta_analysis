@@ -1,0 +1,2 @@
+# RDSResults/DepMap #
+All intermediate results for DepMap are stored here. To avoid confusion, a *Biomass* folder has been created to archive the similar data that has been acquired only focusing on this reaction.
